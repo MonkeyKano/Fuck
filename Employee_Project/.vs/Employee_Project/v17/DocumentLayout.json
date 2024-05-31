@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2020PECCS261\\source\\repos\\Employee_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C13B2E-C2FA-4581-80BE-D792DB059086}|Employee_Project\\Employee_Project.csproj|c:\\users\\2020peccs261\\source\\repos\\employee_project\\employee_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C13B2E-C2FA-4581-80BE-D792DB059086}|Employee_Project\\Employee_Project.csproj|solutionrelative:employee_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C13B2E-C2FA-4581-80BE-D792DB059086}|Employee_Project\\Employee_Project.csproj|c:\\users\\2020peccs261\\source\\repos\\employee_project\\employee_project\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C13B2E-C2FA-4581-80BE-D792DB059086}|Employee_Project\\Employee_Project.csproj|solutionrelative:employee_project\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C13B2E-C2FA-4581-80BE-D792DB059086}|Employee_Project\\Employee_Project.csproj|c:\\users\\2020peccs261\\source\\repos\\employee_project\\employee_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3C13B2E-C2FA-4581-80BE-D792DB059086}|Employee_Project\\Employee_Project.csproj|solutionrelative:employee_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C13B2E-C2FA-4581-80BE-D792DB059086}|Employee_Project\\Employee_Project.csproj|c:\\users\\2020peccs261\\source\\repos\\employee_project\\employee_project\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C13B2E-C2FA-4581-80BE-D792DB059086}|Employee_Project\\Employee_Project.csproj|solutionrelative:employee_project\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C13B2E-C2FA-4581-80BE-D792DB059086}|Employee_Project\\Employee_Project.csproj|c:\\users\\2020peccs261\\source\\repos\\employee_project\\employee_project\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C13B2E-C2FA-4581-80BE-D792DB059086}|Employee_Project\\Employee_Project.csproj|solutionrelative:employee_project\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2020PECCS261\\source\\repos\\Employee_Project\\Employee_Project\\Migrations\\20240531041818_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Employee_Project\\Migrations\\20240531041818_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\2020PECCS261\\source\\repos\\Employee_Project\\Employee_Project\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Employee_Project\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\2020PECCS261\\source\\repos\\Employee_Project\\Employee_Project\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Employee_Project\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:23:49.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240531041818_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\2020PECCS261\\source\\repos\\Employee_Project\\Employee_Project\\Migrations\\20240531041818_FirstMigration.cs",
+              "RelativeDocumentMoniker": "Employee_Project\\Migrations\\20240531041818_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\2020PECCS261\\source\\repos\\Employee_Project\\Employee_Project\\Migrations\\20240531041818_FirstMigration.cs",
+              "RelativeToolTip": "Employee_Project\\Migrations\\20240531041818_FirstMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:18:18.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2020PECCS261\\source\\repos\\Employee_Project\\Employee_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Employee_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\2020PECCS261\\source\\repos\\Employee_Project\\Employee_Project\\Program.cs*",
+              "RelativeToolTip": "Employee_Project\\Program.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:14:21.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2020PECCS261\\source\\repos\\Employee_Project\\Employee_Project\\appsettings.json",
+              "RelativeDocumentMoniker": "Employee_Project\\appsettings.json",
+              "ToolTip": "C:\\Users\\2020PECCS261\\source\\repos\\Employee_Project\\Employee_Project\\appsettings.json",
+              "RelativeToolTip": "Employee_Project\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T04:12:47.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\2020PECCS261\\source\\repos\\Employee_Project\\Employee_Project\\Models\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "Employee_Project\\Models\\EmployeeDbContext.cs",
+              "ToolTip": "C:\\Users\\2020PECCS261\\source\\repos\\Employee_Project\\Employee_Project\\Models\\EmployeeDbContext.cs",
+              "RelativeToolTip": "Employee_Project\\Models\\EmployeeDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:10:01.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\2020PECCS261\\source\\repos\\Employee_Project\\Employee_Project\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee_Project\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\2020PECCS261\\source\\repos\\Employee_Project\\Employee_Project\\Models\\Employee.cs",
+              "RelativeToolTip": "Employee_Project\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:07:50.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
